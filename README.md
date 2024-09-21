@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://komarev.com/ghpvc/?username=faiz-hidayat&color=brightgreen&style=for-the-badge&label=VIEWED+PROFILE&base=1000)
+![](https://komarev.com/ghpvc/?username=faiz-hidayat&color=brightgreen&style=for-the-badge&label=VIEWED+PROFILE&base=1728)
 ![](https://hit.yhype.me/github/profile?user_id=109057000)
