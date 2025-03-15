@@ -5,19 +5,16 @@
   <a href="https://github.com/faiz-hidayat/faiz-hidayat">
     <img src="https://komarev.com/ghpvc/?username=faiz-hidayat" alt="page views" />
   </a>
-  <a href="https://faiz-hidayat.com">
-    <img alt="Website" src="https://img.shields.io/website?url=https%3A%2F%2Ffaiz-hidayat.com">
+  <a href="https://portofolio-iz.netlify.app/">
+    <img alt="Website" src="https://img.shields.io/website?url=https://portofolio-iz.netlify.app/">
   </a>
   <a href="https://github.com/faiz-hidayat?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/faiz-hidayat?style=flat&logo=github">
   </a>
-  <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">
-    <img alt="Awesome" src="https://awesome.re/mentioned-badge.svg">
-  </a>
 </p>
 
 <a href="#faiz-hidayat-title">
-  <img src="https://github-readme-stats.vercel.app/api?username=faiz-hidayat&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="faiz-hidayat" align="right" />
+  <img src="https://raw.githubusercontent.com/faiz-hidayat/github-stats-transparent/output/generated/overview.svg" alt="macropower" align="right" />
 </a>
 
 -   :computer: &nbsp;I'm a **Fullstack Developer** with a passion for security
@@ -323,16 +320,33 @@
 
 <br>
 
-<h2 align="left">Connect With Me</h2>
+<h2 align="left">Coding Activity</h2>
 
-<p align="center">
-<a href="https://linkedin.com/in/faiz-hidayat" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
-</a>
-<a href="https://portofolio-iz.netlify.app/" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/googlechrome.svg" alt="website" height="30" width="40" />
-</a>
-</p>
+> Total logged open-source coding time since 2020-07-19. Updated every 1 hour.
+
+<!-- prettier-ignore-start -->
+<!-- START_SECTION:ascii_graph -->
+
+```
+  2204.6 hr  ┤╭────────────────────────────────────────────────────────────────────────────────────────────────── 
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.6 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.5 hr  ┤│                                                                                                   
+  2204.4 hr  ┤│                                                                                                   
+  2204.4 hr  ┼╯                                                                                                   
+             ┼─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┬─────────────┤ 
+            -7d           -6d           -5d           -4d           -3d           -2d           -1d           now
+```
+
+<!-- END_SECTION:ascii_graph -->
+<!-- prettier-ignore-end -->
 
 <!-- links -->
 
