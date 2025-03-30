@@ -275,6 +275,12 @@
   <tr>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
+        <img src="https://cdn.worldvectorlogo.com/logos/sonarqube-1.svg" width="48" height="48" alt="Burp Suite" />
+      </a>
+      <br>Sonarqube
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
         <img src="https://www.dockhunt.com/_next/image?url=https%3A%2F%2Fdockhunt-images.nyc3.cdn.digitaloceanspaces.com%2Ff5f43386-11d9-4978-b8f0-1497a875881e&w=384&q=75" width="48" height="48" alt="Burp Suite" />
       </a>
       <br>Burp Suite
@@ -290,6 +296,18 @@
         <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" width="48" height="48" alt="Wireshark" />
       </a>
       <br>Wireshark
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://binary.ninja/icons/android-chrome-512x512.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>Binary Ninja
+    </td>
+    <td align="center" width="96">
+      <a href="#faiz-hidayat-tech">
+        <img src="https://ctftime.org/media/team/IDA.png" width="48" height="48" alt="Ghidra" />
+      </a>
+      <br>IDA
     </td>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
