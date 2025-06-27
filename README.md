@@ -311,7 +311,7 @@
     </td>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
-        <img src="https://media.defense.gov/2019/Apr/04/2002109557/-1/-1/0/190404-D-IM742-1002.PNG" width="48" height="48" alt="Ghidra" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a3/Ghidra_Logo.png" width="48" height="48" alt="Ghidra" />
       </a>
       <br>Ghidra
     </td>
