@@ -293,7 +293,7 @@
     </td>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
-        <img src="https://icons.veryicon.com/png/System/Captiva/wireshark.png" width="48" height="48" alt="Wireshark" />
+        <img src="https://icons.iconarchive.com/icons/bokehlicia/captiva/256/wireshark-icon.png" width="48" height="48" alt="Wireshark" />
       </a>
       <br>Wireshark
     </td>
@@ -311,7 +311,7 @@
     </td>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
-        <img src="https://ghidra-sre.org/images/GHIDRA_1.png" width="48" height="48" alt="Ghidra" />
+        <img src="https://seanthegeek.net/assets/images/ghidra-logo.webp" width="48" height="48" alt="Ghidra" />
       </a>
       <br>Ghidra
     </td>
