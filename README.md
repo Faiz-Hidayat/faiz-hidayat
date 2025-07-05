@@ -317,7 +317,7 @@
     </td>
     <td align="center" width="96">
       <a href="#faiz-hidayat-tech">
-        <img src="https://cdn.brandfetch.io/idHnSFcYKj/w/400/h/400/theme/dark/icon.png?c=1dxbfHSJFAPEGdCLU4o5B" width="48" height="48" alt="Nmap" />
+        <img src="https://img.icons8.com/?size=100&id=9b5wowKIlo9d&format=png&color=000000" width="48" height="48" alt="Nmap" />
       </a>
       <br>Nmap
     </td>
